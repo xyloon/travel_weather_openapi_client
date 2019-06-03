@@ -1,0 +1,4 @@
+requests>=2.20.1
+wheel
+setuptools
+
